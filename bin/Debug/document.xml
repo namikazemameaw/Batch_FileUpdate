@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <No. />
+    <FileDeploy />
+    <SubFileDeploy>bootstrap-theme.css</SubFileDeploy>
+    <FileSize>25682</FileSize>
+  </Table1>
+  <Table1>
+    <No. />
+    <FileDeploy />
+    <SubFileDeploy>bootstrap-theme.css.map</SubFileDeploy>
+    <FileSize>48005</FileSize>
+  </Table1>
+  <Table1>
+    <No. />
+    <FileDeploy />
+    <SubFileDeploy>bootstrap-theme.min.css</SubFileDeploy>
+    <FileSize>23411</FileSize>
+  </Table1>
+  <Table1>
+    <No. />
+    <FileDeploy />
+    <SubFileDeploy>bootstrap-theme.min.css.map</SubFileDeploy>
+    <FileSize>75600</FileSize>
+  </Table1>
+  <Table1>
+    <No. />
+    <FileDeploy />
+    <SubFileDeploy>bootstrap.css</SubFileDeploy>
+    <FileSize>145933</FileSize>
+  </Table1>
+  <Table1>
+    <No. />
+    <FileDeploy />
+    <SubFileDeploy>bootstrap.css.map</SubFileDeploy>
+    <FileSize>390887</FileSize>
+  </Table1>
+  <Table1>
+    <No. />
+    <FileDeploy />
+    <SubFileDeploy>bootstrap.min.css</SubFileDeploy>
+    <FileSize>121457</FileSize>
+  </Table1>
+  <Table1>
+    <No. />
+    <FileDeploy />
+    <SubFileDeploy>bootstrap.min.css.map</SubFileDeploy>
+    <FileSize>540434</FileSize>
+  </Table1>
+  <Table1>
+    <No. />
+    <FileDeploy />
+    <SubFileDeploy>Site.css</SubFileDeploy>
+    <FileSize>763</FileSize>
+  </Table1>
+</NewDataSet>

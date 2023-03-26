@@ -1,0 +1,11 @@
+C:\Users\MaMeaw\source\repos\Batch_FileUpdate\Batch_FileUpdate\bin\Debug\Batch_FileUpdate.exe.config
+C:\Users\MaMeaw\source\repos\Batch_FileUpdate\Batch_FileUpdate\bin\Debug\Batch_FileUpdate.exe
+C:\Users\MaMeaw\source\repos\Batch_FileUpdate\Batch_FileUpdate\bin\Debug\Batch_FileUpdate.pdb
+C:\Users\MaMeaw\source\repos\Batch_FileUpdate\Batch_FileUpdate\obj\Debug\Batch_FileUpdate.csproj.AssemblyReference.cache
+C:\Users\MaMeaw\source\repos\Batch_FileUpdate\Batch_FileUpdate\obj\Debug\Batch_FileUpdate.csproj.SuggestedBindingRedirects.cache
+C:\Users\MaMeaw\source\repos\Batch_FileUpdate\Batch_FileUpdate\obj\Debug\Batch_FileUpdate.csproj.CoreCompileInputs.cache
+C:\Users\MaMeaw\source\repos\Batch_FileUpdate\Batch_FileUpdate\obj\Debug\Batch_FileUpdate.exe
+C:\Users\MaMeaw\source\repos\Batch_FileUpdate\Batch_FileUpdate\obj\Debug\Batch_FileUpdate.pdb
+C:\Users\MaMeaw\source\repos\Batch_FileUpdate\Batch_FileUpdate\bin\Debug\ClassLibrary.dll
+C:\Users\MaMeaw\source\repos\Batch_FileUpdate\Batch_FileUpdate\bin\Debug\ClassLibrary.pdb
+C:\Users\MaMeaw\source\repos\Batch_FileUpdate\Batch_FileUpdate\obj\Debug\Batch_FileUpdate.csproj.CopyComplete
